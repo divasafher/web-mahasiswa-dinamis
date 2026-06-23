@@ -1,0 +1,14 @@
+/* Custom overrides for AdminLTE */
+
+.badge-draft { background-color: #ffc107; color: #212529; }
+.badge-published { background-color: #28a745; color: #fff; }
+
+.card-header .btn { margin-left: 8px; }
+
+.login-page { align-items: center; background: #343a40; }
+
+.nav-sidebar .nav-link.active {
+  background-color: rgba(255,255,255,.15);
+}
+
+.flash-container { margin-bottom: 1rem; }

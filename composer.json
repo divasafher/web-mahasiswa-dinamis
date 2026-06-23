@@ -1,0 +1,16 @@
+{
+  "description": "Article Management System with CodeIgniter 3, REST API, JWT, and AdminLTE CRUD.",
+  "name": "webdev/article-management-ci3",
+  "type": "project",
+  "license": "proprietary",
+  "require": {
+    "php": ">=7.4",
+    "firebase/php-jwt": "^6.0",
+    "chriskacerguis/codeigniter-restserver": "^3.1"
+  },
+  "autoload": {
+    "psr-4": {
+      "App\\": "application/"
+    }
+  }
+}
